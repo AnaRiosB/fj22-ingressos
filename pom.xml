@@ -144,5 +144,12 @@
             </plugin>
         </plugins>
     </build>
+    
+    <developers>
+      <developer>
+        <name>Ana Bastos</name>
+        <email>abastos1905@gmail.com</email>
+      </developer>
+    </developers>
 
 </project>
